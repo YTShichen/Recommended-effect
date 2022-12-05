@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="5J5z1xKhXvdY0O1ZZ2XW" name="第 1 页">
+        <mxGraphModel dx="401" dy="352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+                    <mxGeometry x="119" y="57" width="405" height="161" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="背景层(imgs)" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+                    <mxGeometry x="119" y="57" width="405" height="161" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="灰色导航(top-nav)" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;" parent="1" vertex="1">
+                    <mxGeometry x="119" y="57" width="405" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="侧边导航&lt;br&gt;side-bar" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;" parent="1" vertex="1">
+                    <mxGeometry x="401" y="111" width="123" height="106" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
